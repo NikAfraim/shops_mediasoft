@@ -50,7 +50,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone git@github.com:NikAfraim/shops_mediasoft.git
+git clone https://github.com/NikAfraim/shops_mediasoft.git
 ```
 
 2. Перейдите в каталог проекта:
