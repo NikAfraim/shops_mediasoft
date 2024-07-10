@@ -79,7 +79,7 @@ poetry install
 
 1. Перейдите в `infra/`:
 ```bash
-cd infra/
+cd ../infra/
 ```
 
 2. Запустите docker-compose:
